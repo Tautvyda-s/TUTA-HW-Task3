@@ -1,0 +1,8 @@
+C:\Users\tetsu\Desktop\TUTA\Lectures\06 Source Control + Basic Programming\LearningDotNet\LearningArrays\bin\Debug\LearningArrays.exe.config
+C:\Users\tetsu\Desktop\TUTA\Lectures\06 Source Control + Basic Programming\LearningDotNet\LearningArrays\bin\Debug\LearningArrays.exe
+C:\Users\tetsu\Desktop\TUTA\Lectures\06 Source Control + Basic Programming\LearningDotNet\LearningArrays\bin\Debug\LearningArrays.pdb
+C:\Users\tetsu\Desktop\TUTA\Lectures\06 Source Control + Basic Programming\LearningDotNet\LearningArrays\obj\Debug\LearningArrays.csproj.AssemblyReference.cache
+C:\Users\tetsu\Desktop\TUTA\Lectures\06 Source Control + Basic Programming\LearningDotNet\LearningArrays\obj\Debug\LearningArrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\tetsu\Desktop\TUTA\Lectures\06 Source Control + Basic Programming\LearningDotNet\LearningArrays\obj\Debug\LearningArrays.csproj.CoreCompileInputs.cache
+C:\Users\tetsu\Desktop\TUTA\Lectures\06 Source Control + Basic Programming\LearningDotNet\LearningArrays\obj\Debug\LearningArrays.exe
+C:\Users\tetsu\Desktop\TUTA\Lectures\06 Source Control + Basic Programming\LearningDotNet\LearningArrays\obj\Debug\LearningArrays.pdb
